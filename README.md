@@ -1,6 +1,6 @@
 # CNN
-I built a Convolutional Neural Network to classify images of vegetables. The goal was to train a model that can look at an image and correctly identify what type of vegetable it is. This is useful because image classification is used in a lot of real-world things like food recognition apps and even automation in agriculture.”
-The dataset I used was a vegetable image dataset that included different classes like beans, carrots, cucumbers, tomatoes, and others.”
+I built a Convolutional Neural Network to classify images of vegetables. The goal was to train a model that can look at an image and correctly identify what type of vegetable it is. This is useful because image classification is used in a lot of real-world things like food recognition apps and even automation in agriculture.
+The dataset I used was a vegetable image dataset that included different classes like beans, carrots, cucumbers, tomatoes, and others.
 
 Each class = a type of vegetable
 Images stored in folders (one folder per class)
